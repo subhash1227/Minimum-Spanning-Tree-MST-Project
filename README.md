@@ -39,7 +39,7 @@ To run the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/suman105/MST_TimeAnalysis_MultipleAlgorithms.git
+   git clone https://github.com/subhash1227/Minimum-Spanning-Tree-MST-Project.git
    cd MST_TimeAnalysis_MultipleAlgorithms
 2. Run the Jupyter notebook:
    ```bash
